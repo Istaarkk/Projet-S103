@@ -12,7 +12,7 @@ Le principal objectif du projet était d'acquérir les compétences nécessaires
 
 ### Sous-Objectifs
 
-Pour atteindre l'objectif final, nous avons eu a accomplir les étapes suivantes :
+Pour atteindre l'objectif final, nous avons eu à accomplir les étapes suivantes :
 
 1. Installer un système d'exploitation sur le Raspberry Pi.
 2. Effectuer des opérations SysOp sur le Raspberry Pi (gestion des utilisateurs, etc.).
