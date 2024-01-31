@@ -8,11 +8,11 @@ Ce référentiel contient la documentation et les directives pour le projet S103
 
 ### Objectifs Principaux
 
-Le principal objectif du projet est de permettre aux étudiants d'acquérir les compétences nécessaires pour effectuer des opérations SysOp sur un Raspberry Pi, en se concentrant sur la mise en place et la configuration d'une station de travail numérique.
+Le principal objectif du projet était d'acquérir les compétences nécessaires pour effectuer des opérations SysOp sur un Raspberry Pi, en se concentrant sur la mise en place et la configuration d'une station de travail numérique.
 
 ### Sous-Objectifs
 
-Pour atteindre l'objectif final, les étudiants doivent accomplir les étapes suivantes :
+Pour atteindre l'objectif final, nous avons eu a accomplir les étapes suivantes :
 
 1. Installer un système d'exploitation sur le Raspberry Pi.
 2. Effectuer des opérations SysOp sur le Raspberry Pi (gestion des utilisateurs, etc.).
