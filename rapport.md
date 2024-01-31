@@ -1,5 +1,5 @@
 # S103 Report
-By Galaad Martineaux, Mattew Kerlidou, and Matthieu Da Cruz.
+
 ## Summary
 1. [Installing Raspberry Pi OS](#heading1)
 1. [Add the users required](#heading2)
