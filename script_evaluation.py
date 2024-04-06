@@ -1,5 +1,5 @@
 """
-Script for evaluating the configuration of a Raspberry Pi in a student lab.
+Script for evaluating the configuration of a Raspberry Pi 800 in a student lab.
 
 The script connects to a Raspberry Pi with a fixed IP address (10.42.0.2),
 evaluates the SSH connection, retrieves content from students.txt, and performs
